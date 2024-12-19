@@ -9,6 +9,16 @@
       "projectName": "springboot-web",
       "args": "",
       "envFile": "${workspaceFolder}/.env"
+    },
+    {
+      "type": "java",
+      "name": "Spring Boot-SpringbootHorarioApplication<springboot-horario>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.matias.curso.springboot.calendar.interceptor.springboot_horario.SpringbootHorarioApplication",
+      "projectName": "springboot-horario",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
     }
   ]
 }
